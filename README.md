@@ -1,2 +1,2 @@
-# my-own-project
+# My own project
 This is my repository to test something I've been learning through the ages
